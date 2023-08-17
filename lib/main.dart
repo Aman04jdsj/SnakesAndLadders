@@ -56,8 +56,8 @@ class _MyHomePageState extends State<MyHomePage> {
     32: 68,
     41: 79,
     74: 88,
-    85: 95,
-    82: 100
+    82: 100,
+    85: 95
   };
 
   void _updateDice() {
